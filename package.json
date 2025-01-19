@@ -1,0 +1,32 @@
+{
+  "name": "bloodyfish",
+  "version": "0.0.1",
+  "description": "A powerful frontend design tool, like Bootstrap and Tailwind, but more flexible.",
+  "main": "dist/css/main.css",
+  "scripts": {
+    "build": "npm run build",
+    "publish": "npm publish"
+  },
+  "keywords": [
+    "frontend",
+    "css",
+    "framework",
+    "design",
+    "responsive"
+  ],
+  "author": "Street of Wolves",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "normalize.css": "^8.0.1",
+    "postcss": "^8.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/street-of-wovles/bloodyfish.git"
+  },
+  "bugs": {
+    "url": "https://github.com/street-of-wovles/bloodyfish/issues"
+  },
+  "homepage": "https://github.com/street-of-wovles/bloodyfish#readme"
+}

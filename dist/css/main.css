@@ -1,0 +1,21 @@
+/* Importing other modules */
+
+@import './animations/animations.css';
+@import './animations/timers.css';
+
+@import './fonts/family/Aloevera-OVoWO.ttf';
+
+@import './alignment.css';
+@import './cards.css';
+@import './char-entities.css';
+@import './colors.css';
+@import './decoration.css';
+@import './font-family.css';
+@import './hexcolors.css';
+@import './core.css';
+@import './morphs.css';
+@import './size.css';
+@import './tooltips.css';
+@import './urls.css';
+
+/* Add more imports as you need */

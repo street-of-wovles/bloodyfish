@@ -1,0 +1,24 @@
+# Ignore the source files (CSS, JS, and images in the src/ or dist/ directories)
+src/
+
+# Ignore tests or development files
+test/
+tests/
+
+# Ignore configuration files
+*.md
+README.md
+*.log
+
+# Ignore node_modules (they will be ignored by default by npm)
+node_modules/
+
+# Ignore editor and OS-specific files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Ignore the npm debug log
+npm-debug.log
+
+test.html
