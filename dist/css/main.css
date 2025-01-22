@@ -3,9 +3,7 @@
 @import './animations/animations.css';
 @import './animations/timers.css';
 
-@import './fonts/family/Aloevera-OVoWO.ttf';
-
-@import './alignment.css';
+@import './alignments.css';
 @import './cards.css';
 @import './char-entities.css';
 @import './colors.css';
