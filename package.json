@@ -1,6 +1,6 @@
 {
   "name": "@street-of-wolves/bloodyfish",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A powerful frontend design tool, like Bootstrap and Tailwind, but more flexible.",
   "main": "dist/css/main.css",
   "scripts": {

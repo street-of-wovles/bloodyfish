@@ -9,7 +9,7 @@
 <p align="center">
 Sketching the Web is now Manageable, and Straightforward to Level the Design.
   <br>
-  <a href="https://bloodyfish.streetofwolves.in"><strong>Explore BloodyFish docs »</strong></a>
+  <a href="https://bloodyfish.streetofwolves.in"><strong>Explore BloodyFish docs » (Under Progress)</strong></a>
   <br>
   <br>
   <a href="https://github.com/street-of-wovles/bloodyfish/issues/new?assignees=&labels=bug&template=bug_report.yml">Report bug</a>
@@ -19,7 +19,7 @@ Sketching the Web is now Manageable, and Straightforward to Level the Design.
 
 ### CDN:
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@street-of-wolves/bloodyfish@0.0.5/dist/css/main.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@street-of-wolves/bloodyfish@0.0.6/dist/css/main.min.css">
 ```
 
 ### Table of contents
@@ -31,7 +31,7 @@ Sketching the Web is now Manageable, and Straightforward to Level the Design.
 ### Quick start
 Several quick start options are available:
 
-- [Download the latest release](https://github.com/street-of-wolves/bloodyfish/archive/refs/tags/v0.0.5.zip)
+- [Download the latest release](https://github.com/street-of-wolves/bloodyfish/archive/refs/tags/v0.0.6.zip)
 - Clone the repo: `git clone https://github.com/street-of-wolves/bloodyfish.git`
 - Install with [npm](https://www.npmjs.com/): `npm install @street-of-wolves/bloodyfish`
 - Install with [yarn](https://wwwyarnpkg.com) `yarn add @street-of-wolves/bloodyfish`
@@ -49,7 +49,7 @@ Read the [Getting started page](https://streetofwolves.in/) for information on t
   <title>Bloody Fish</title>
 
   <!-- links -->
-  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@street-of-wolves/bloodyfish@0.0.5/dist/css/main.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@street-of-wolves/bloodyfish@0.0.6/dist/css/main.min.css">
   <!-- Other css links -->
 
 </head>
